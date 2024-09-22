@@ -11,6 +11,6 @@
 - )
 # "Links"
 * [GitHub Pages](https://pages.github.com/)
-* [Name is square brackets](followed by the address in parentheses)
-* [Name is square brackets](followed by the address in parentheses)
+* [Youtube Pages](https://www.youtube.com/)
+* [George Brown College Pages](https://www.georgebrown.ca/)
 # "Experiments😘"
