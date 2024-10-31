@@ -1,0 +1,33 @@
+[
+    {
+      "name": "James Brown" ,
+      "sports": "Basketball",
+      "team": {"name":"Lakers", "city":"Los Angeles"},
+      "Position": "Forward",
+      "Age":"38"
+    },
+    
+    {
+      "name": "Lionel Messi",
+      "sports": "Soccer",
+      "team": {"name":"Inter Miami", "city":"Miami"},
+      "Position": "Forward",
+      "Age":"36"
+    },
+    
+    {
+      "name": "Serena Williams",// string 
+      "sports": "Tennis",
+      "team": {"name":"null", "city":"null"},
+      "Position": "Player",
+      "Age":"41"
+    },
+    
+    {
+      "name": "Tom Brady",
+      "sports": "Football",
+      "team": {"name":"Buccaneers", "city":"Tampa Bay"},
+      "Position": "Quarterback",
+      "Age":"46"
+    }
+  ]
