@@ -16,7 +16,7 @@
     },
     
     {
-      "name": "Serena Williams",// string 
+      "name": "Serena Williams",
       "sports": "Tennis",
       "team": {"name":"null", "city":"null"},
       "Position": "Player",
