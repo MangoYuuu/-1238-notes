@@ -35,16 +35,3 @@ SELECT course_id,course_name
 FROM  courses
 WHERE lab_time LIKE 'Tue%'
 ORDER BY course_id;
-
-
-
-
-
-
--- Use this query as a reference for the next step
-SELECT course_id, title, status, due_date
-FROM assignments
-WHERE status != 'Completed'	
-  AND course_id LIKE 'COMM%'
-  AND due_date < '2024-12-31'
-ORDER BY due_date;
