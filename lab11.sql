@@ -16,13 +16,19 @@ FROM assignments;
 --Step 4: Exercise Question 4
 SELECT title,course_id
 FROM  assignments
-WHERE due_date = '2024-10-08'
+WHERE due_date = '2024-10-08';
 
 --Step 4: Exercise Question 5
 SELECT title,due_date
 FROM  assignments
-WHERE due_date LIKE '2024-10%'
+WHERE due_date LIKE '2024-10%';
 
+--Step 4: Exercise Question 6
+SELECT *
+FROM  assignments
+WHERE status = 'Completed'
+	AND due_date < '2024-11-17'
+ORDER BY due_date DESC LIMIT 1;
   
 --Optional task 1:
 SELECT *
